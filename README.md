@@ -6,15 +6,14 @@
 <a href="https://twitter.com/MrBhai_Atheist">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/charlykeleb.dev" target="blank">
+<a href="https://instagram.com/MrBhai" target="blank">
   <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
-<a href="mailto:charlyykeleb@gmail.com">
+<a href="mailto:nowos2050@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="http://wa.me/22964028463?text=Hello Charly Keleb">
+<a href="http://wa.me/+256708476565?text=Hello MrBhai">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/12473792/chizaram-succes?tab=profile" target="blank"><img align="top" src="https://img.shields.io/badge/StackOverflow%20-%23323330.svg?&style=for-the-badge&logo=StackOverflow&logoColor=orange" alt="chizaram-success"/></a>
 <img src="https://gpvc.arturio.dev/Charles042" />
 </p>
 
@@ -33,9 +32,7 @@
 
 
 
-<!--
 </p>
 <p align='center'>
 <a href="https://stackoverflow.com/users/10835183/jideguru"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
 </p>
--->
