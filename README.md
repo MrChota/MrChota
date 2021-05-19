@@ -17,4 +17,7 @@
 <img src="https://gpvc.arturio.dev/Charles042" />
 </p>
 
-![alt-text-1](<img src="https://github-readme-stats.vercel.app/api?username=MrChota&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">) ![alt-text-2](<img src="https://github-readme-stats.vercel.app/api?username=MrChota&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">)
+![alt-text-1](https://github-readme-stats.vercel.app/api?username=MrChota&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919) ![alt-text-2](https://github-readme-stats.vercel.app/api?username=MrChota&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MrChota&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> -->
