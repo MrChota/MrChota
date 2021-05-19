@@ -3,7 +3,7 @@
 <p align='center'>I am a Software Engineer focused on Design and beauty💙. </p>
 
 <p align='center'>
-<a href="https://twitter.com/CharlyKeleb">
+<a href="https://twitter.com/MrBhai_Atheist">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/charlykeleb.dev" target="blank">
@@ -24,13 +24,11 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Charles042&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 
-<!--
 <p align='center'>
   <a href="https://stackoverflow.com/users/12473792/chizaram-success">
   <img src="https://img.shields.io/stackexchange/stackoverow/r/12473792?style=for-the-badgefl" />
 </a>&nbsp;&nbsp;
 </p>
--->
 
 
 
