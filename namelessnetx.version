@@ -1,5 +1,5 @@
 {
-    "versionCode":20700,
+    "versionCode":20701,
     "versionName":"v2.8.1",
     "url":"https://play.google.com/store/apps/details?id=com.namelessnetx.ang",
     "updateTitle":"v2.8.1 new version update",
@@ -8,7 +8,7 @@
     "updateContentEnglish":"1, Now support Vmess, VLESS, Trojan, Socks, Shadowsocks\n2, Fix bugs\n3, androidX\n4 , jetpack compose highbreed\n5 , theming",
     "force":0,
     "Ad":0,
-    "content":"Welcome everyone to use the new and revised Trojan. The new version of Trojan now supports Vmess, VLESS, Trojan, Socks, Shadowsocks and other proxy protocols, adds subscription functions and various custom rules.\nDark mode compatibility is problematic , The next version is fixed\nUse problems can be communicated in the Tg exchange group.",
-    "contentEnglish":"Welcome to the newly revised namelessnetx. The new version of namelessnetx now supports Vmess, VLESS, Trojan, Socks, Shadowsocks proxy protocols,and adds subscription functions and various custom rules.\n supports Dark themes.\nUse problems can be communicated in the Telegram group."
+    "content":"1, Now support Vmess, VLESS, Trojan, Socks, Shadowsocks\n2, Fix bugs\n3, androidX\n4 , jetpack compose highbreed\n5 , theming,
+    "contentEnglish":"1, Now support Vmess, VLESS, Trojan, Socks, Shadowsocks\n2, Fix bugs\n3, androidX\n4 , jetpack compose highbreed\n5 , theming"
 
 }
