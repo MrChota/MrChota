@@ -5,7 +5,7 @@
     "updateTitle":"v2.7.0 new version update",
     "updateTitleEnglish":"v2.7.0 version published",
     "updateContent": "1, add more protocol support\n2, optimize the page",
-    "updateContentEnglish":"1, Now support Vmess, VLESS, Trojan, Socks, Shadowsocks\n2, Fix bugs",
+    "updateContentEnglish":"1, Now support Vmess, VLESS, Trojan, Socks, Shadowsocks\n2, Fix bugs, androidX , jetpack compose highbreed , theming",
     "force":0,
     "Ad":0,
     "content":"Welcome everyone to use the new and revised Trojan. The new version of Trojan now supports Vmess, VLESS, Trojan, Socks, Shadowsocks and other proxy protocols, adds subscription functions and various custom rules.\nDark mode compatibility is problematic , The next version is fixed\nUse problems can be communicated in the Tg exchange group.",
