@@ -1,9 +1,9 @@
 {
-    "versionCode":20701,
-    "versionName":"v2.8.1",
+    "versionCode":20800,
+    "versionName":"v2.8.2",
     "url":"https://play.google.com/store/apps/details?id=com.namelessnetx.ang",
-    "updateTitle":"v2.8.1 new version update",
-    "updateTitleEnglish":"v2.8.1 version published",
+    "updateTitle":"v2.8.2 new version update",
+    "updateTitleEnglish":"v2.8.2 version published",
     "updateContent": "1, add more protocol support\n2, optimize the page",
     "updateContentEnglish":"1, Now support Vmess, VLESS, Trojan, Socks, Shadowsocks\n2, Fix bugs\n3, androidX\n4 , jetpack compose highbreed\n5 , theming",
     "force":0,
